@@ -15,7 +15,7 @@ Kalidoface 3D works with <b>VRM rigged 3D models</b>. Just drag and drop your ow
 
 Share your <b>6 digit code</b> with a friend to start a private <b>voice call</b> using virtual avatars! Now updated with new selfie and first person camera modes.
 
-![Peer to Peer chat](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-2-17654eb38d7d.gif?v=1626111265427)
+![Peer to Peer chat](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-3-a2691d6ea927.gif?v=1626111894228)
 
 
 ### Upload custom background
