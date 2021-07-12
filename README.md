@@ -6,7 +6,7 @@ A sequal to <a href='https://kalidoface.com' target='_blank'><b>Kalidoface</b></
 
 ### Use your own VRM 3D models
 
-Kalidoface 3D works with <b>VRM rigged 3D models</b>. Just drag and drop your own .vrm files to add your Vtuber character.<br><br>Models are saved locally so you won't need to reupload them next visit!<br><br>Might support other types of 3D human models if they're easy to implement.
+Kalidoface 3D works with <b>VRM 3D models</b>. Just drag and drop your own .vrm files to add your Vtuber character. Might support other types of 3D human models if they're easy to implement.<br><br>Models are saved locally so you won't need to reupload them next visit!
 
 ![VRM file support](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-2-b312e89d3e07.gif?v=1626110793139)
 
