@@ -1,0 +1,18 @@
+{
+  "mount": {
+    "public": {"url": "/", "static": true},
+    "src": {"url": "/dist"}
+  },
+  "plugins": [
+    "@snowpack/plugin-svelte",
+    "@snowpack/plugin-dotenv",
+    "@snowpack/plugin-webpack"
+  ],
+  "buildOptions":{
+    "out":"docs",
+    "baseUrl":""
+  },
+  "packageOptions": {
+    "polyfillNode": true
+  }
+}

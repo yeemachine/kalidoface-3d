@@ -1,0 +1,7 @@
+web_modules
+docs/dist
+docs/__snowpack__
+public
+src
+utils
+archive

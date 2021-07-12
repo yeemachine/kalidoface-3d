@@ -1,0 +1,40 @@
+{
+    "name": "Kalidoface 3D",
+    "short_name": "Kalidoface 3D",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "display": "fullscreen",
+    "start_url": "./?source=pwa",
+    "icons": [
+        {
+            "src": "https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fkalidoface-app-icon-192.png?v=1623330415638",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fkalidoface-app-icon-512.png?v=1623330561281",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "splash_pages": null,
+    "url": "https://3d.kalidoface.com",
+    "lang": "English",
+    "screenshots": [
+        {
+            "src": "[Embedded]",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "any",
+    "description": "Animate virtual characters using your browser webcam in real time! Perfect for livestreaming, chatting with friends, or just having fun!",
+    "scope": "/"
+}
