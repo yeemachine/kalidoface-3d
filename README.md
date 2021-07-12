@@ -1,4 +1,4 @@
-# Kalidoface 3D - Face and Full-Body tracking with a webcam!
+# Kalidoface 3D - Face and Full-Body tracking for VRM on the web!
 
 As a sequal to <a href='https://kalidoface.com' target='_blank'><b>Kalidoface</b></a>, <a href='https://3d.kalidoface.com' target='_blank'><b>Kalidoface 3D</b></a> brings support for 3D Vtuber avatars, more dynamic camera angles, and even full-body tracking options. Add the app to your homescreen to use it in standalone full screen or even add it to OBS as a browser object directly.
 
