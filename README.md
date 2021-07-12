@@ -2,13 +2,13 @@
 
 As a sequal to <a href='https://kalidoface.com' target='_blank'><b>Kalidoface</b></a>, <a href='https://3d.kalidoface.com' target='_blank'><b>Kalidoface 3D</b></a> brings support for 3D Vtuber avatars, more dynamic camera angles, and even full-body tracking options. Add the app to your homescreen to use it in standalone full screen or even add it to OBS as a browser object directly.
 
-![Kalidoface virtual webcam](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FIMG_1393.GIF)
+![Kalidoface virtual webcam](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-3-9768a365c39e.gif?v=1626110320496)
 
 ### Use your own Live2D models
 
 Kalidoface 3D works with <b>VRM rigged 3D models</b>. Just drag and drop your own .vrm files to add your Vtuber character.<br><br>Models are saved locally so you won't need to reupload them next visit!
 
-![VRM file support](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FIMG_1390.GIF)
+![VRM file support](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FIMG_1390.GIF?v=1626108548222)
 
 
 ### Call a friend
