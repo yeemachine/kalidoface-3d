@@ -2,7 +2,7 @@ dependencies:
   '@dannadori/facemesh-worker-js': 1.0.37
   '@jaames/iro': 5.5.2
   '@mediapipe/drawing_utils': 0.3.1620248257
-  '@mediapipe/holistic': 0.3.1620694839
+  '@mediapipe/holistic': 0.4.1625245411
   '@mediapipe/pose': 0.3.1621277220
   '@pixiv/three-vrm': 0.6.4
   '@pwabuilder/pwaupdate': 0.2.0
@@ -1235,10 +1235,10 @@ packages:
     dev: false
     resolution:
       integrity: sha512-s598oo1K6C62mX3rWXJ7n1RJFdXjyQn3f6CeI+lU6kD69MVyBcV3hdmO5LnEZlCw5NRDANtaM8WAOuqZHaldLg==
-  /@mediapipe/holistic/0.3.1620694839:
+  /@mediapipe/holistic/0.4.1625245411:
     dev: false
     resolution:
-      integrity: sha512-pOtKu0tvCOlNbedq7zlE9xbu8A395rhH7ryM9ifkQiAY0oLxlKFTekaJx0IfK5uy+Khe/kLMkigehGJY5wrznw==
+      integrity: sha512-rtUhoxgVYQSsqhXk379mnOVo8Ee4jJoqvWsCxvp48OeOvGQTMI77XYNLLsvQxjeGVkhpH82QQiWedaHG5+GZ7g==
   /@mediapipe/pose/0.3.1621277220:
     dev: false
     resolution:
@@ -8753,7 +8753,7 @@ specifiers:
   '@dannadori/facemesh-worker-js': ^1.0.36
   '@jaames/iro': ^5.5.0
   '@mediapipe/drawing_utils': ^0.3.1620248257
-  '@mediapipe/holistic': ^0.3.1620694839
+  '@mediapipe/holistic': ^0.4.1625245411
   '@mediapipe/pose': ^0.3.1620081486
   '@pixiv/three-vrm': ^0.6.4
   '@pwabuilder/pwaupdate': ^0.2.0

@@ -33,14 +33,14 @@
     "localforage": "^1.9.0",
     "three": "^0.129.0",
     "@pixiv/three-vrm": "^0.6.4",
-    "@mediapipe/holistic": "^0.3.1620694839",
+    "@mediapipe/holistic": "^0.4.1625245411",
     "@mediapipe/pose": "^0.3.1620081486",
     "@mediapipe/drawing_utils": "^0.3.1620248257",
     "three-ik": "^0.1.0",
     "@dannadori/facemesh-worker-js": "^1.0.36"
   },
   "devDependencies": {
-       "snowpack": "^2.18.5",
+    "snowpack": "^2.18.5",
     "@snowpack/plugin-svelte": "^3.4.1",
     "@snowpack/plugin-dotenv": "^2.0.4",
     "snowpack-plugin-rollup-bundle": "^0.3.3",
@@ -48,5 +48,8 @@
     "rollup-plugin-node-polyfills": "^0.1.2",
     "null": "^2.0.0",
     "prettier-plugin-svelte": "^2.1.6"
+  },
+  "glitch": {
+    "projectType": "generated_static"
   }
 }
