@@ -8,14 +8,14 @@ As a sequal to <a href='https://kalidoface.com' target='_blank'><b>Kalidoface</b
 
 Kalidoface 3D works with <b>VRM rigged 3D models</b>. Just drag and drop your own .vrm files to add your Vtuber character.<br><br>Models are saved locally so you won't need to reupload them next visit!
 
-![VRM file support](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FIMG_1390.GIF?v=1626108548222)
+![VRM file support](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-2-b312e89d3e07.gif?v=1626110793139)
 
 
 ### Call a friend
 
 Share your <b>6 digit code</b> with a friend to start a private <b>voice call</b> using virtual avatars! Now updated with new selfie and first person camera modes.
 
-![Peer to Peer chat](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FIMG_1392.GIF)
+![Peer to Peer chat](https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2Fezgif-2-17654eb38d7d.gif?v=1626111265427)
 
 
 ### Upload custom background
