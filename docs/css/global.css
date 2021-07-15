@@ -153,6 +153,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+body.transparent{
+  background:transparent;
+}
 @media all and (display-mode: fullscreen) {
   body,html{
     height:100vh;
