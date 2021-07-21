@@ -1,5 +1,5 @@
 {
-  "name": "Kalidoface",
+  "name": "Kalidoface3D",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,11 +20,11 @@
     "svelte-preprocess": "^4.7.3",
     "interactjs": "^1.10.11",
     "peerjs": "^1.3.2",
-    "@tensorflow/tfjs-core": "^3.7.0",
-    "@tensorflow/tfjs-converter": "^3.7.0",
-    "@tensorflow/tfjs-backend-webgl": "^3.7.0",
-    "@tensorflow/tfjs-backend-wasm": "^3.6.0",
-    "@tensorflow-models/face-landmarks-detection": "^0.0.3",
+    "@tensorflow/tfjs-core": "^2.8.5",
+    "@tensorflow/tfjs-converter": "^2.8.5",
+    "@tensorflow/tfjs-backend-webgl": "^2.8.5",
+    "@tensorflow/tfjs-backend-wasm": "^3.0.0",
+    "@tensorflow-models/face-landmarks-detection": "^0.0.2",
     "svelte-hmr": "^0.14.3",
     "parcel": "^1.12.4",
     "jszip": "^3.6.0",
@@ -33,11 +33,9 @@
     "localforage": "^1.9.0",
     "three": "^0.129.0",
     "@pixiv/three-vrm": "^0.6.4",
-    "@mediapipe/holistic": "^0.4.1625245411",
-    "@mediapipe/pose": "^0.3.1620081486",
+    "@mediapipe/holistic": "^0.4.1626821983",
     "@mediapipe/drawing_utils": "^0.3.1620248257",
-    "three-ik": "^0.1.0",
-    "@dannadori/facemesh-worker-js": "^1.0.36"
+    "three-ik": "^0.1.0"
   },
   "devDependencies": {
     "snowpack": "^2.18.5",
