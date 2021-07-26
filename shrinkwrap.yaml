@@ -8517,7 +8517,7 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  '@jaames/iro': ^5.5.0
+  '@jaames/iro': ^5.5.2
   '@mediapipe/drawing_utils': ^0.3.1620248257
   '@mediapipe/holistic': ^0.4.1626821983
   '@pixiv/three-vrm': ^0.6.4
