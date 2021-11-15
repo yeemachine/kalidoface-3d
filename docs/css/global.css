@@ -8,8 +8,8 @@
 @font-face {
   font-family: "Kalicon";
   font-display: block;
-  src: url("https://cdn.glitch.com/29e07830-2317-4b15-a044-135e73c7f840%2FKalidoface-Regular.otf?v=1625608734480")
-    format("opentype");
+  src: url("https://cdn.glitch.me/239c5934-4d83-4c5c-bef6-44dcdb04c8fb%2FKalidoface-Regular.woff?v=1635140532535")
+    format("woff");
 }
 
 @font-face {
@@ -289,7 +289,7 @@ body.user-is-tabbing input:focus + container {
   transition-property: font-variation-settings; */
 }
 .fill.small{
-  font-size: 40px;
+  font-size: 44px;
 }
 .fill.medium{
   font-size: 58px;
