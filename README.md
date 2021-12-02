@@ -42,6 +42,6 @@ To use Kalidoface directly in a Browser object in OBS, you need the `-use-fake-u
 
 ### Standalone Tracking Library
 
-Interested in making your own Vtuber app? **[Kalidoface](https://github.com/yeemachine/kalidokit)** is a JS library that solves for face, full body, and hand tracking.
+Interested in making your own Vtuber app? **[Kalidokit](https://github.com/yeemachine/kalidokit)** is a JS library that solves for face, full body, and hand tracking.
 
 <a href="https://github.com/yeemachine/kalidokit"><img src="https://github.com/yeemachine/kalidokit/blob/main/docs/kalidokit_glitch.gif?raw=true" alt="Kalidokit Template" width="100%"/></a>
