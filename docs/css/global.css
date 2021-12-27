@@ -1,21 +1,21 @@
 @font-face {
   font-family: "Jelly";
   font-display: block;
-  src: url("https://yeemachine.github.io/kalidoface-live2d-models/Font/kalidoface-jelly.ttf")
+  src: url("https://yeemachine.github.io/k2021/font/kalidoface-jelly.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "Kalicon";
   font-display: block;
-  src: url("https://cdn.glitch.me/239c5934-4d83-4c5c-bef6-44dcdb04c8fb%2FKalidoface-Regular.woff?v=1635140532535")
+  src: url("https://yeemachine.github.io/k2021/font/kalidoface-regular.woff")
     format("woff");
 }
 
 @font-face {
   font-family: "Kalicon Variable";
   font-display: block;
-  src: url("https://yeemachine.github.io/kalidoface-live2d-models/Font/kalidoface-variable.ttf")
+  src: url("https://yeemachine.github.io/k2021/font/kalidoface-variable.ttf")
     format("truetype");
 }
 
