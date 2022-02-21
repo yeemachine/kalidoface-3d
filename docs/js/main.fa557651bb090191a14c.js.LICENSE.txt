@@ -239,9 +239,9 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
- * postprocessing v6.23.2 build Thu Oct 28 2021
+ * postprocessing v6.24.1 build Mon Feb 21 2022
  * https://github.com/vanruesc/postprocessing
- * Copyright 2021 Raoul van Rüschen
+ * Copyright 2015-2022 Raoul van Rüschen
  * @license Zlib
  */
 
