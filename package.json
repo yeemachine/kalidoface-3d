@@ -7,15 +7,17 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
+  "type": "module",
   "scripts": {
     "clean": "rm dist/bundle.js",
-    "start": "snowpack dev",
-    "build": "snowpack build"
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
-    "svelte": "^3.42.4",
     "svelte-loader": "^3.1.2",
     "svelte-preprocess": "^4.7.3",
     "interactjs": "^1.10.11",
@@ -31,8 +33,8 @@
     "jszip": "^3.6.0",
     "@jaames/iro": "^5.5.2",
     "localforage": "^1.9.0",
-    "three": "^0.133.0",
-    "@pixiv/three-vrm": "^0.6.9",
+    "three": "^0.138.3",
+    "@pixiv/three-vrm": "^0.6.10",
     "@mediapipe/holistic": "^0.5.1635989137",
     "@mediapipe/drawing_utils": "^0.3.1620248257",
     "postprocessing": "^6.23.2",
@@ -41,14 +43,15 @@
     "kalidokit": "^1.1.5"
   },
   "devDependencies": {
-    "snowpack": "^2.18.5",
-    "@snowpack/plugin-svelte": "^3.4.1",
-    "@snowpack/plugin-dotenv": "^2.0.4",
-    "snowpack-plugin-rollup-bundle": "^0.3.3",
-    "@snowpack/plugin-webpack": "^2.1.3",
-    "rollup-plugin-node-polyfills": "^0.1.2",
-    "null": "^2.0.0",
-    "prettier-plugin-svelte": "^2.1.6"
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.40",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.4.0",
+    "eslint-plugin-svelte3": "^3.4.0",
+    "prettier": "^2.6.0",
+    "prettier-plugin-svelte": "^2.6.0",
+    "vite": "^2.8.6",
+    "svelte": "^3.46.4",
+    "rollup-plugin-css-only": "^3.1.0"
   },
   "glitch": {
     "projectType": "generated_static"
